@@ -57,3 +57,9 @@ typings/
 # dotenv environment variables file
 .env
 
+### Project Specific ignores
+# Compiled Binaries folder
+dist/
+*.sln
+.vs/
+*.nsproj
